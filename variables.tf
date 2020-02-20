@@ -14,7 +14,7 @@ variable "index" {
 
 variable "nodejs_version" {
   description = "Nodejs version to be used"
-  default     = "8.10"
+  default     = "12.2"
 }
 
 variable "prefix" {
